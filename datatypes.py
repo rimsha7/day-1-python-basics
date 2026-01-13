@@ -1,1 +1,3 @@
-print("Hello World")
+name = "Umer"
+age = 24
+gpa = 3.44
