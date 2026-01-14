@@ -6,5 +6,5 @@ students = [
 index = 0
 while index<len(students):
     if students[index]["gpa"]>3.0:
-        print(students[index]["name"])
+        print(f"{students[index]["name"]} = {students[index]["gpa"]}")
     index += 1
